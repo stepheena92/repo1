@@ -3,7 +3,7 @@ package pack1;
 public class FindSmallLarge {
 	
 	public static void main(String[] args) {
-		int[] numbers= {10,25,55,40,30,4};
+		int[] numbers= {10,25,5,40,39,4};
 		int large=numbers[0];
 		int small=numbers[0];
 		//print all elements
